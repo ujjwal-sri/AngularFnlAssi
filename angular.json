@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularFnlAssi"
+    }
+  },
+  "defaultProject": "AngularFnlAssi",
+  "cli": {
+    "analytics": "595b4c11-75c0-4818-a2df-39668d3f4112"
+  }
 }
